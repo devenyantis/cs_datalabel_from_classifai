@@ -17,11 +17,11 @@
 
 Click the save button on the annotation page and choose Label option to export the image labels of a project. The exported label ﬁle will be located in the project folder.
 
-![](../../.gitbook/assets/1%20%2810%29.jpeg)
+![](../../.gitbook/assets/export-label.png)
 
 ### How to Import Label File:
 
 To reuse the labels for image annotation, import the label text ﬁle from the project folder.
 
-![ Import label &#xFB01;le for image annotation](../../.gitbook/assets/import-label.gif)
+![](../../.gitbook/assets/import-label%20%281%29.gif)
 

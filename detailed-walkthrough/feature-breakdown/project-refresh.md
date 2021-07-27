@@ -8,5 +8,5 @@ Whenever user have made **documents change and add/remove images** to the user's
 
 Click on the Reload button on the right panel to initiate the project refresh.
 
-![](../../.gitbook/assets/projectrefresh.gif)
+![](../../.gitbook/assets/refresh.gif)
 

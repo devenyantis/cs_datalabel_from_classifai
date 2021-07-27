@@ -24,11 +24,17 @@ The project can be exported in two options.
 1. **Conﬁg ﬁle:** Save a JSON format ﬁle into the project folder.
 2. **Zip File \(with data\):** Save all the images together with the project JSON ﬁle into one zip ﬁle.
 
-![Export Project](../../.gitbook/assets/1%20%287%29.jpeg)
+![](../../.gitbook/assets/export-project.gif)
 
 ### How to Import Project Conﬁguration File:
 
 Import by selecting the conﬁguration ﬁle in JSON format.
 
-![](../../.gitbook/assets/projectimport.gif)
+![Select Import project](../../.gitbook/assets/import.png)
+
+![](../../.gitbook/assets/import-project.png)
+
+![Choose the project configuration file \(.json\) in the image folder](../../.gitbook/assets/config-file.png)
+
+![Project imported](../../.gitbook/assets/imported.png)
 

@@ -56,7 +56,7 @@ This tutorial shows how to create a bounding box project.
 
 #### **4. Click new project**
 
-![](../../.gitbook/assets/4%20%282%29.png)
+![](../../.gitbook/assets/create.png)
 
 {% hint style="info" %}
 Label ﬁle can be uploaded to the project. Label ﬁle must be in text \(.txt\). Each labels are separated by new line.
@@ -74,5 +74,5 @@ Label ﬁle can be uploaded to the project. Label ﬁle must be in text \(.txt\)
 
 #### **6. Project successfully created. Double click project card to open**
 
-![](../../.gitbook/assets/7.png)
+![](../../.gitbook/assets/create-project.png)
 

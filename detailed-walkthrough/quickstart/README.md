@@ -18,9 +18,7 @@ There are two ways to open CS.DataLabel in the browser
 
 ![](../../.gitbook/assets/img4.jpg)
 
-Alternatively, proceed to open a supported browser \(Chrome, Firefox, or any Chromium- based browser\) and go to url _http://localhost:9999/_
-
 * Alternatively, proceed to open a supported browser \(Chrome, Firefox, or any Chromium- based browser\) and go to url _http://localhost:9999/_
 
-![](../../.gitbook/assets/4%20%286%29.jpeg)
+![](../../.gitbook/assets/img6.jpg)
 

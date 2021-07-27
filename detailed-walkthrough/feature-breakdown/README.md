@@ -16,7 +16,5 @@ Check out the following topics:
 
 {% page-ref page="project-refresh.md" %}
 
-{% page-ref page="segmentation-techniques-breakdown.md" %}
-
 {% page-ref page="deletion-of-projects-data-points.md" %}
 

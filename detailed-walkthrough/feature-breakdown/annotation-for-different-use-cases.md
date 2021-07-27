@@ -14,12 +14,6 @@ Draw a bounding box and insert text into the blank label column
 
 ![](../../.gitbook/assets/img15.jpg)
 
-### Segmentation labelling method:
-
-Draw a polygon and assign labels created from the label list.
-
-![](../../.gitbook/assets/2%20%287%29.jpeg)
-
 Create sub-labels if necessary.
 
 ![](../../.gitbook/assets/select.png)

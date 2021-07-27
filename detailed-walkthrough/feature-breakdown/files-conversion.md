@@ -26,23 +26,23 @@ CS.DataLabel team will continue to support more ﬁle types based on demands.
 
 ![](../../.gitbook/assets/img13.jpg)
 
-![](../../.gitbook/assets/1%20%284%29.png)
+![](../../.gitbook/assets/file-format.png)
 
 **Step 2:** On the top left side, a selection ﬁeld beside Input folder is select the ﬁle format that user want to convert. A selection ﬁeld beside Output folder is select the converted ﬁle format that user want.
 
-![](../../.gitbook/assets/2%20%284%29.png)
+![](../../.gitbook/assets/file-format-2.png)
 
 **Step 3:** On the top right side, click the browser button to select input folder where the ﬁles to convert exist.
 
 Keep the output folder as it is \("Same as source ﬁle"\) to save the ﬁles back to the path where original ﬁles is. Alternatively, click on the second browser button for output folder to choose where does the user want to save the new converted ﬁles.
 
-![](../../.gitbook/assets/3%20%281%29.png)
+![](../../.gitbook/assets/file-format-3.png)
 
 **Step 4:** Finally, click on the convert button in the bottom right corner. The progress bar will shows 100% when the ﬁles were successfully converted. Check the ﬁle names converted in the text pane.
 
 The Files Format Converter can be closed once the conversion complete.
 
-![](../../.gitbook/assets/4%20%283%29.png)
+![](../../.gitbook/assets/file-format-4.png)
 
 **Step 5:** Go to the Output folder location can check the ﬁle that had been converted.
 

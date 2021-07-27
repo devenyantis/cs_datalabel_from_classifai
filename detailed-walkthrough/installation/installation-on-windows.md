@@ -4,27 +4,25 @@
 
 {% page-ref page="./" %}
 
-![](../../.gitbook/assets/0%20%284%29.png)\*\*\*\*
+![](../../.gitbook/assets/msi.png)
+
+
 
 **Step 2:** Click installer .msi ﬁle to install CS.DataLabel. Follow the instructions to go through the steps.
 
-If the following window appear, click **run** to start the installation
-
-![](../../.gitbook/assets/1%20%285%29.jpeg)
+{% hint style="info" %}
+If the security warning window appear, click **run** to start the installation
+{% endhint %}
 
 **Step 3:** Wait till the installation completed.
 
-![](../../.gitbook/assets/2%20%284%29.jpeg)
+![](../../.gitbook/assets/finish.png)
 
 **Step 4:** You will see CS.DataLabel icon on the desktop. Double click on it to start running CS.DataLabel.
 
-![](../../.gitbook/assets/3%20%289%29.jpeg)
+![](../../.gitbook/assets/img1%20%281%29.jpg)
 
 **Note:** Installation package might fail to run if the computer was installed with antivirus program. If so, run the msi ﬁle from command prompt / powershell \(run with administrator mode\).
-
-Click the run button to proceed with installation.
-
-![](../../.gitbook/assets/4%20%283%29.jpeg)
 
 {% page-ref page="../quickstart/" %}
 
