@@ -10,8 +10,6 @@ description: Introduction about CS.DataLabel
 
 **CS.DataLabel** is one of the most comprehensive open-source data annotation platform. It supports the labelling of various data types with multi labelled outputs forms for AI model training.
 
-Figure below show how CS.DataLabel ﬁts in the machine learning workﬂow. It enables the labelling of raw data imported from data source. The labelled data can then channel into training environments for supervised / semi- supervised learning.
-
 Data labelling tasks are challenging due to a few factors:
 
 * long hours of human workforce to label the data manually,
