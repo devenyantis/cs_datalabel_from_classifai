@@ -1,18 +1,18 @@
 # Quickstart
 
-After Classifai is installed, run it by clicking on the shortcut icon from respective operating system.
+After CS.DataLabel is installed, run it by clicking on the shortcut icon from respective operating system.
 
 ![](../../.gitbook/assets/0%20%2814%29.jpeg)
 
-Once Classifai is booted, Welcome Launcher will be launch. The server status will be displayed on the bottom left corner.
+Once CS.DataLabel is booted, Welcome Launcher will be launch. The server status will be displayed on the bottom left corner.
 
 ![](../../.gitbook/assets/1%20%2812%29.jpeg)
 
-Once the server status message displayed "Running", Classifai is booted up successfully.
+Once the server status message displayed "Running", CS.DataLabel is booted up successfully.
 
 ![](../../.gitbook/assets/2%20%289%29.jpeg)
 
-There are two ways to open classifai in the browser
+There are two ways to open CS.DataLabel in the browser
 
 * Click on the ﬁrst button of **Welcome Launcher**
 

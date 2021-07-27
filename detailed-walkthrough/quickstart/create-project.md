@@ -42,7 +42,7 @@ When saving annotation labels, the image path will follow the directory structur
 
 This tutorial shows how to create a bounding box project.
 
-#### 1. Click start Classifai
+#### 1. Click start CS.DataLabel
 
 ![](../../.gitbook/assets/1%20%2811%29.jpeg)
 

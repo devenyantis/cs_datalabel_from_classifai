@@ -1,6 +1,6 @@
 # Files Conversion
 
-**Classifai** supports ﬁles conversion to ease the end users in labelling data in formats suitable for AI modelling.
+CS.DataLabel supports ﬁles conversion to ease the end users in labelling data in formats suitable for AI modelling.
 
 The motivation of this is there are formats which are not commonly used for data ingestion such as document formats \(doc, docx, pdf\) or image formats with more than 3 color channels \(tif, tiff\).
 
@@ -18,11 +18,11 @@ Files format below are supported for the conversion. User can choose accordingly
 1. JPG
 2. PNG
 
-Classifai team will continue to support more ﬁle types based on demands.
+CS.DataLabel team will continue to support more ﬁle types based on demands.
 
 ### 2.0 Files Conversion Guideline
 
-**Step 1:** Run Classifai and click the medium button.
+**Step 1:** Run CS.DataLabel and click the medium button.
 
 ![](../../.gitbook/assets/0%20%286%29.jpeg)
 

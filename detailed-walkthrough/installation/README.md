@@ -1,8 +1,8 @@
 # Installation
 
-## **Install Classifai**
+## **Install CS.DataLabel**
 
-Classifai supports the following operating systems \(OS\).
+CS.DataLabel supports the following operating systems \(OS\).
 
 ![](../../.gitbook/assets/0.jpeg)
 

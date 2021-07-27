@@ -27,7 +27,7 @@ We aim to solve these in CS.DataLabel to provide signiﬁcant value to the data 
 ## Features
 
 * Platform-agnostic
-  * Classifai is build with Java backend. As Java is platform-neutral, it is as simple as download the classifai uber jar ﬁle and run it with Java runtime.
+  * CS.DataLabel is build with Java backend. As Java is platform-neutral, it is as simple as download the CS.DataLabel uber jar ﬁle and run it with Java runtime.
 * Asynchronous API - Fast and speedy response In-memory Java-based database
 * Conversion of conventional data types to preferred formats \(For example: .pdf format to .png format\)
 * Multi data types supported
@@ -50,16 +50,6 @@ We aim to solve these in CS.DataLabel to provide signiﬁcant value to the data 
 * Cut costly data labelling services
 * Aesthetic and intuitive UI interface, to make the work fun to do!
 * Reclaim valuable time from ineﬃcient data labelling, technical team can focus on more meaningful ML/DL tasks.
-
-## **Learn More**
-
-| Section | Description |
-| :--- | :--- |
-| [Website](https://classifai.ai/) | Oﬃcial Website |
-| [Github](https://github.com/CertifaiAI/classifai) | Open Source Code |
-| [Blogs](https://medium.com/classifai-ai) | Technical Posts |
-| [Discord](https://discord.com/invite/WsBFgNP) | Community Support for Classifai Tool |
-| Training \(Coming soon\) | Self-Paced Training to learn about Data Annotation and the use of Classifai |
 
 
 

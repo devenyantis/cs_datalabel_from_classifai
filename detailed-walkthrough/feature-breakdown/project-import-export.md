@@ -1,9 +1,9 @@
 # Project Import/Export
 
-A project can be imported into Classifai using a conﬁguration ﬁle in **JSON format**. The conﬁguration ﬁle contains the metadata of a project to reproduce it in a different system.
+A project can be imported into CS.DataLabel using a conﬁguration ﬁle in **JSON format**. The conﬁguration ﬁle contains the metadata of a project to reproduce it in a different system.
 
 {% hint style="danger" %}
-**The conﬁguration ﬁle of a project comes from the export feature of Classifai tool.**
+**The conﬁguration ﬁle of a project comes from the export feature of CS.DataLabel** **tool.**
 {% endhint %}
 
 ### Beneﬁts of the Import/Export Feature:
@@ -13,7 +13,7 @@ A project can be imported into Classifai using a conﬁguration ﬁle in **JSON 
 3. Reimport project to output user-preferred label formats such as YOLO and Pascal VOC
 4. Customizable image annotation for different projects
 5. Flexible collaboration between labeler and engineer
-6. All images annotation data will be updated and saved to the Classifai database, this prevents the user from losing valuable labeled images data and time
+6. All images annotation data will be updated and saved to the CS.DataLabel database, this prevents the user from losing valuable labeled images data and time
 
 ### Methods:
 

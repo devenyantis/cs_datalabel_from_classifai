@@ -2,7 +2,7 @@
 
 ### Drawing polygon while shifting the image:
 
-Segmentation process requires a detailed drawing of the silhouette of objects. To aids in the process, Classifai allows the shifting of an image while drawing polygons.
+Segmentation process requires a detailed drawing of the silhouette of objects. To aids in the process, CS.DataLabel allows the shifting of an image while drawing polygons.
 
 ### How to do it?
 

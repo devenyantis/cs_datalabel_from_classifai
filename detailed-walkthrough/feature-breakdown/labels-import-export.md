@@ -4,7 +4,7 @@
 
 1. Labels of images can be exported in different ﬁle formats such as **YOLO, Pascal VOC, text OCR, and text label.**
 2. The exported label ﬁle \(.txt\) can be reimported into the project for usage, this speed up the labeling work task of similar kind of projects
-3. Users can perform any kind of AI project at ease with the output from Classifai customizable labeling tool.
+3. Users can perform any kind of AI project at ease with the output from CS.DataLabel customizable labeling tool.
 4. Users can choose to export the preferred ﬁle format for the current labeled image or all labeled images \(bulk saving\).
 
 {% hint style="danger" %}

@@ -1,6 +1,6 @@
 # Multi Languages Support
 
-Classifai supports the languages listed below to provide a customized workspace suited to every individual.
+CS.DataLabel supports the languages listed below to provide a customized workspace suited to every individual.
 
 **Languages Supported**
 
@@ -10,9 +10,5 @@ Classifai supports the languages listed below to provide a customized workspace 
 
 Change to your preferred language of choice by toggling the selection on the top right corner of the home interface.
 
-![Change of languages in Classifai](../../.gitbook/assets/0%20%283%29.jpeg)
-
-{% hint style="info" %}
-If you have a language of choice to suggest to the tool or would like to report any unﬁt words, do ﬁle an issue on [Classifai Github repository](https://github.com/CertifaiAI/classifai/issues).
-{% endhint %}
+![Change of languages in CS.DataLabel](../../.gitbook/assets/0%20%283%29.jpeg)
 

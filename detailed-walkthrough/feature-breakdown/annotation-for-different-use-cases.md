@@ -1,6 +1,6 @@
 # Annotation For Different Use Cases
 
-Classifai support various labellling methods for different use cases.
+CS.DataLabel support various labelling methods for different use cases.
 
 ### Image Classiﬁcation Labelling Method:
 
