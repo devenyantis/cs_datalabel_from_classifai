@@ -6,13 +6,13 @@ CS.DataLabel support various labelling methods for different use cases.
 
 Draw a bounding box and select a label created from label list
 
-![](../../.gitbook/assets/0%20%287%29.jpeg)
+![](../../.gitbook/assets/img14.jpg)
 
 ### Text Recognition Labelling Method:
 
 Draw a bounding box and insert text into the blank label column
 
-![](../../.gitbook/assets/1.jpeg)
+![](../../.gitbook/assets/img15.jpg)
 
 ### Segmentation labelling method:
 
@@ -22,7 +22,7 @@ Draw a polygon and assign labels created from the label list.
 
 Create sub-labels if necessary.
 
-![](../../.gitbook/assets/3%20%286%29.jpeg)
+![](../../.gitbook/assets/select.png)
 
 ### **Export of Labels**
 
@@ -30,9 +30,11 @@ Annotation output has to be exported for latter process. The types of saved outp
 
 Click on the ﬁle saving button to select types of output saving format.
 
-![](../../.gitbook/assets/4.jpeg)
+![](../../.gitbook/assets/save.png)
 
 ### Bounding Box Annotation
+
+![](../../.gitbook/assets/img16.jpg)
 
 * Pascal VOC
 * YOLO

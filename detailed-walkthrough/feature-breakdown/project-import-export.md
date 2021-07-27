@@ -30,5 +30,5 @@ The project can be exported in two options.
 
 Import by selecting the conﬁguration ﬁle in JSON format.
 
-![](../../.gitbook/assets/2%20%2810%29.jpeg)
+![](../../.gitbook/assets/projectimport.gif)
 

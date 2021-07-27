@@ -23,7 +23,5 @@ Click the save button on the annotation page and choose Label option to export t
 
 To reuse the labels for image annotation, import the label text ﬁle from the project folder.
 
-![](../../.gitbook/assets/2%20%283%29.jpeg)
-
-Import label ﬁle for image annotation
+![ Import label &#xFB01;le for image annotation](../../.gitbook/assets/import-label.gif)
 

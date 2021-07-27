@@ -44,19 +44,25 @@ This tutorial shows how to create a bounding box project.
 
 #### 1. Click start CS.DataLabel
 
-![](../../.gitbook/assets/1%20%2811%29.jpeg)
+![](../../.gitbook/assets/img5.jpg)
 
 #### **2. Choose image**
 
-![](../../.gitbook/assets/2%20%285%29.jpeg)
+![](../../.gitbook/assets/img7.jpg)
 
 #### **3. Choose bounding box**
 
-![](../../.gitbook/assets/3%20%287%29.jpeg)
+![](../../.gitbook/assets/img8.jpg)
 
 #### **4. Click new project**
 
 ![](../../.gitbook/assets/4%20%282%29.png)
+
+{% hint style="info" %}
+Label ﬁle can be uploaded to the project. Label ﬁle must be in text \(.txt\). Each labels are separated by new line.
+{% endhint %}
+
+Label ﬁle can be uploaded to the project. Label ﬁle must be in text \(.txt\). Each labels are separated by new line.
 
 #### **5. Enter project name and choose project folder. Project folder is the folder of dataset**
 

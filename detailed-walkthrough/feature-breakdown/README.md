@@ -6,6 +6,8 @@ Check out the following topics:
 
 {% page-ref page="multi-languages-support.md" %}
 
+{% page-ref page="keyboard-shortcut.md" %}
+
 {% page-ref page="files-conversion.md" %}
 
 {% page-ref page="annotation-for-different-use-cases.md" %}

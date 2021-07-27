@@ -1,6 +1,6 @@
 # Workspace Walkthrough
 
-![](../../.gitbook/assets/0%20%2812%29.jpeg)
+![](../../.gitbook/assets/img12.jpg)
 
 ### 1. Pointer
 

@@ -24,7 +24,7 @@ CS.DataLabel team will continue to support more ﬁle types based on demands.
 
 **Step 1:** Run CS.DataLabel and click the medium button.
 
-![](../../.gitbook/assets/0%20%286%29.jpeg)
+![](../../.gitbook/assets/img13.jpg)
 
 ![](../../.gitbook/assets/1%20%284%29.png)
 
