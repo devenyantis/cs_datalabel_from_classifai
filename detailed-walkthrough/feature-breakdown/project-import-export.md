@@ -1,10 +1,12 @@
 # Project Import/Export
 
-A project can be imported into Classifai using a conﬁguration ﬁle in **JSON format**. The conﬁguration ﬁle contains the metadata of a project to reproduce it in a different system.![](../../.gitbook/assets/0%20%289%29.png)
+A project can be imported into Classifai using a conﬁguration ﬁle in **JSON format**. The conﬁguration ﬁle contains the metadata of a project to reproduce it in a different system.
 
+{% hint style="danger" %}
 **The conﬁguration ﬁle of a project comes from the export feature of Classifai tool.**
+{% endhint %}
 
-## Beneﬁts of the Import/Export Feature:
+### Beneﬁts of the Import/Export Feature:
 
 1. Visual cross-validation on image labeling quality
 2. Reimport project to adjust, remove, or add labels to reannotate the undesired labeled images
@@ -13,7 +15,7 @@ A project can be imported into Classifai using a conﬁguration ﬁle in **JSON 
 5. Flexible collaboration between labeler and engineer
 6. All images annotation data will be updated and saved to the Classifai database, this prevents the user from losing valuable labeled images data and time
 
-## Methods:
+### Methods:
 
 ### How to Export Project Conﬁguration File:
 
@@ -22,9 +24,7 @@ The project can be exported in two options.
 1. **Conﬁg ﬁle:** Save a JSON format ﬁle into the project folder.
 2. **Zip File \(with data\):** Save all the images together with the project JSON ﬁle into one zip ﬁle.
 
-![](../../.gitbook/assets/1%20%287%29.jpeg)
-
-Export Project
+![Export Project](../../.gitbook/assets/1%20%287%29.jpeg)
 
 ### How to Import Project Conﬁguration File:
 

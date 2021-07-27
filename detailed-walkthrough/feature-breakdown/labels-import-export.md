@@ -7,11 +7,11 @@
 3. Users can perform any kind of AI project at ease with the output from Classifai customizable labeling tool.
 4. Users can choose to export the preferred ﬁle format for the current labeled image or all labeled images \(bulk saving\).
 
-![](../../.gitbook/assets/0%20%285%29.png)
-
+{% hint style="danger" %}
 **The label ﬁle is recommended to be exported from the project rather than generated separately by the user. This is to prevent formatting errors from happening**
+{% endhint %}
 
-## Method
+### Method
 
 ### How to Export Label File:
 

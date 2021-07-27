@@ -4,23 +4,23 @@
 
 The motivation of this is there are formats which are not commonly used for data ingestion such as document formats \(doc, docx, pdf\) or image formats with more than 3 color channels \(tif, tiff\).
 
-## Supported File Format
+### 1.0 Supported File Format
 
 Files format below are supported for the conversion. User can choose accordingly from each category for the conversion of ﬁle format from one type to another.
 
-### File Format to Convert From
+#### File Format to Convert From
 
-* * 1. PDF
-    2. TIF
+1. PDF
+2. TIF
 
-### File Format to Convert To
+#### File Format to Convert To
 
 1. JPG
 2. PNG
 
 Classifai team will continue to support more ﬁle types based on demands.
 
-## 2.0 Files Conversion Guideline
+### 2.0 Files Conversion Guideline
 
 **Step 1:** Run Classifai and click the medium button.
 
