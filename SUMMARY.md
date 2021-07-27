@@ -6,11 +6,10 @@
 ## Detailed Walkthrough
 
 * [System Requirements](detailed-walkthrough/system-requirements.md)
-* [Installation](detailed-walkthrough/untitled-1/README.md)
-  * [Install on Windows](detailed-walkthrough/untitled-1/installation-on-windows.md)
-  * [Install on Mac](detailed-walkthrough/untitled-1/installation-on-mac.md)
-  * [Install on Ubuntu](detailed-walkthrough/untitled-1/installation-on-ubuntu.md)
-  * [Install on Centos](detailed-walkthrough/untitled-1/installation-on-centos.md)
+* [Installation](detailed-walkthrough/installation/README.md)
+  * [Install on Windows](detailed-walkthrough/installation/installation-on-windows.md)
+  * [Install on Ubuntu](detailed-walkthrough/installation/installation-on-ubuntu.md)
+  * [Install on Centos](detailed-walkthrough/installation/installation-on-centos.md)
 * [Quickstart](detailed-walkthrough/quickstart/README.md)
   * [Create Project](detailed-walkthrough/quickstart/create-project.md)
   * [Workspace Walkthrough](detailed-walkthrough/quickstart/workspace-walkthrough.md)

@@ -58,7 +58,7 @@
 
 Proceed to installation page for detailed instruction for each operating system.
 
-{% page-ref page="untitled-1/" %}
+{% page-ref page="installation/" %}
 
 
 

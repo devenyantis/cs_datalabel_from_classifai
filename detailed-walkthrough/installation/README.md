@@ -23,8 +23,6 @@ Uberjar ﬁle: [Here](https://bit.ly/3xHTpP6)
 
 {% page-ref page="installation-on-windows.md" %}
 
-{% page-ref page="installation-on-mac.md" %}
-
 {% page-ref page="installation-on-ubuntu.md" %}
 
 {% page-ref page="installation-on-centos.md" %}
