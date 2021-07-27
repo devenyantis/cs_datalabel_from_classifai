@@ -1,6 +1,6 @@
 # Install on Ubuntu
 
-These are 2 methods to install Classifai in Ubuntu
+These are 2 methods to install CS.DataLabel in Ubuntu
 
 For those who familiar with terminal, users can using **method 1.**
 
@@ -8,7 +8,7 @@ For those users who familiar with using Software Installer \(GUI\), go for **met
 
 ## Method 1: Installation using Terminal
 
-**Step 1:** Download Classifai installer .deb ﬁle from the installation page.
+**Step 1:** Download CS.DataLabel installer .deb ﬁle from the installation page.
 
 Choose the operating system according to operating system Ubuntu 18 LTS or 20 LTS.
 
@@ -20,7 +20,7 @@ Choose the operating system according to operating system Ubuntu 18 LTS or 20 LT
 cd {downloaded_path}
 ```
 
-**Step 3:** Type the following command code to install Classifai.
+**Step 3:** Type the following command code to install CS.DataLabel.
 
 ```text
 sudo dpkg -i package_file.deb
@@ -30,7 +30,7 @@ sudo dpkg -i package_file.deb
 
 ## Method 2: Installation using Software Installer
 
-**Step 1:** Download Classifai installer .deb ﬁle from the installation page.
+**Step 1:** Download CS.DataLabel installer .deb ﬁle from the installation page.
 
 Choose the operating system according to operating system Ubuntu 18 LTS or 20 LTS.
 
@@ -38,9 +38,9 @@ Choose the operating system according to operating system Ubuntu 18 LTS or 20 LT
 
 ![](../../.gitbook/assets/2.jpeg)
 
-## Running of Classifai on Ubuntu
+## Running of CS.DataLabel on Ubuntu
 
-After installation completed, open Classifai by double clicking on the icon.
+After installation completed, open CS.DataLabel by double clicking on the icon.
 
 ![](../../.gitbook/assets/3%20%284%29.jpeg)
 

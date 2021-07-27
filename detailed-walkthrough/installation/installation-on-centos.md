@@ -2,13 +2,13 @@
 
 ## Installation for CentOS 7
 
-For CentOS 7 , users have to install Classifai by using terminal.
+For CentOS 7 , users have to install CS.DataLabel by using terminal.
 
 {% hint style="danger" %}
 Using GUI is not recommended because the installation might not run successfully. Don't worry, the installation using terminal will just take a few steps to complete.
 {% endhint %}
 
-**Step 1:** Download Classifai installer .rpm ﬁle compatible to CentOS 7 from the installation page.
+**Step 1:** Download CS.DataLabel installer .rpm ﬁle compatible to CentOS 7 from the installation page.
 
 {% page-ref page="./" %}
 
@@ -18,7 +18,7 @@ Using GUI is not recommended because the installation might not run successfully
 cd {installer_location}
 ```
 
-**Step 3:** Type the following command code to install Classifai.
+**Step 3:** Type the following command code to install CS.DataLabel.
 
 ```text
 sudo rpm -i package_file.rpm
@@ -28,11 +28,11 @@ sudo rpm -i package_file.rpm
 
 ## Installation for CentOS 8
 
-These are 2 methods to install Classifai on CentOS 8. Users can choose either using Software Installer \(GUI\) or using terminal.
+These are 2 methods to install CS.DataLabel on CentOS 8. Users can choose either using Software Installer \(GUI\) or using terminal.
 
 ### Method 1: Installation using Software Installer \(GUI\)
 
-**Step 1:** Download Classifai installer .rpm ﬁle compatible to CentOS 8 from the installation page.
+**Step 1:** Download CS.DataLabel installer .rpm ﬁle compatible to CentOS 8 from the installation page.
 
 {% page-ref page="./" %}
 
@@ -46,7 +46,7 @@ These are 2 methods to install Classifai on CentOS 8. Users can choose either us
 
 ![](../../.gitbook/assets/3%20%283%29.jpeg)
 
-**Step 1:** Download Classifai installer .rpm ﬁle compatible to CentOS 8 from the installation page.
+**Step 1:** Download CS.DataLabel installer .rpm ﬁle compatible to CentOS 8 from the installation page.
 
 {% page-ref page="./" %}
 
@@ -64,7 +64,7 @@ su
 
 ![](../../.gitbook/assets/4%20%285%29.jpeg)
 
-**Step 3:** Type the following command code to install Classifai:
+**Step 3:** Type the following command code to install CS.DataLabel:
 
 ```text
 sudo rpm -i package_file.rpm
@@ -72,13 +72,13 @@ sudo rpm -i package_file.rpm
 
 ![](../../.gitbook/assets/5%20%281%29.png)
 
-### Running of Classifai on CentOS
+### Running of CS.DataLabel on CentOS
 
-Search for Classifai program in the Applications / Activities.
+Search for CS.DataLabel program in the Applications / Activities.
 
 ![](../../.gitbook/assets/6.jpeg)
 
-Run by double clicking on the Classifai icon.
+Run by double clicking on the CS.DataLabel icon.
 
 ![](../../.gitbook/assets/7.jpeg)
 

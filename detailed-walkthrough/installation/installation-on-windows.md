@@ -1,12 +1,12 @@
 # Install on Windows
 
-**Step 1:** Download Classifai installer .msi ﬁle from the installation page.
+**Step 1:** Download CS.DataLabel installer .msi ﬁle from the installation page.
 
 {% page-ref page="./" %}
 
 ![](../../.gitbook/assets/0%20%284%29.png)\*\*\*\*
 
-**Step 2:** Click installer .msi ﬁle to install Classifai. Follow the instructions to go through the steps.
+**Step 2:** Click installer .msi ﬁle to install CS.DataLabel. Follow the instructions to go through the steps.
 
 If the following window appear, click **run** to start the installation
 
@@ -16,7 +16,7 @@ If the following window appear, click **run** to start the installation
 
 ![](../../.gitbook/assets/2%20%284%29.jpeg)
 
-**Step 4:** You will see Classifai icon on the desktop. Double click on it to start running Classifai.
+**Step 4:** You will see CS.DataLabel icon on the desktop. Double click on it to start running CS.DataLabel.
 
 ![](../../.gitbook/assets/3%20%289%29.jpeg)
 

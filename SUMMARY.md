@@ -15,7 +15,6 @@
   * [Workspace Walkthrough](detailed-walkthrough/quickstart/workspace-walkthrough.md)
 * [Feature Breakdown](detailed-walkthrough/feature-breakdown/README.md)
   * [Multi Languages Support](detailed-walkthrough/feature-breakdown/multi-languages-support.md)
-  * [Keyboard Shortcut](detailed-walkthrough/feature-breakdown/keyboard-shortcut.md)
   * [Files Conversion](detailed-walkthrough/feature-breakdown/files-conversion.md)
   * [Annotation For Different Use Cases](detailed-walkthrough/feature-breakdown/annotation-for-different-use-cases.md)
   * [Project Import/Export](detailed-walkthrough/feature-breakdown/project-import-export.md)
