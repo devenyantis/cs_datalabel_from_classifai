@@ -1,5 +1,5 @@
 ---
-description: Introduction about Classifai
+description: Introduction about CS.DataLabel
 ---
 
 # Overview
@@ -8,9 +8,9 @@ description: Introduction about Classifai
 
 ![](.gitbook/assets/0%20%2813%29.jpeg)
 
-**Classifai** is one of the most comprehensive open-source data annotation platform. It supports the labelling of various data types with multi labelled outputs forms for AI model training.
+**CS.DataLabel** is one of the most comprehensive open-source data annotation platform. It supports the labelling of various data types with multi labelled outputs forms for AI model training.
 
-Figure below show how Classifai ﬁts in the machine learning workﬂow. It enables the labelling of raw data imported from data source. 
+Figure below show how CS.DataLabel ﬁts in the machine learning workﬂow. It enables the labelling of raw data imported from data source. 
 
 The labelled data can then channel into training environments for supervised / semi- supervised learning.
 
@@ -22,7 +22,7 @@ Data labelling tasks are challenging due to a few factors:
 * off-the-shelves toolkit which cannot fulﬁll the use cases needs.
 * frustration processes to convert data to supported format types for labelling work
 
-We aim to solve these in **Classifai** to provide signiﬁcant value to the data science workﬂow.
+We aim to solve these in CS.DataLabel to provide signiﬁcant value to the data science workﬂow.
 
 ## Features
 
