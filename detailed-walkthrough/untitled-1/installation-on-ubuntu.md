@@ -1,4 +1,4 @@
-# Installation on Ubuntu
+# Install on Ubuntu
 
 These are 2 methods to install Classifai in Ubuntu
 
@@ -16,11 +16,15 @@ Choose the operating system according to operating system Ubuntu 18 LTS or 20 LT
 
 ![](../../.gitbook/assets/0%20%289%29.jpeg)
 
-cd {downloaded\_path}
+```text
+cd {downloaded_path}
+```
 
 **Step 3:** Type the following command code to install Classifai.
 
-sudo dpkg -i package\_file.deb
+```text
+sudo dpkg -i package_file.deb
+```
 
 ![](../../.gitbook/assets/1%20%282%29.png)
 
@@ -42,5 +46,5 @@ After installation completed, open Classifai by double clicking on the icon.
 
 ![](../../.gitbook/assets/4%20%284%29.jpeg)
 
-Quickstart /product/quickstart
+{% page-ref page="../quickstart/" %}
 

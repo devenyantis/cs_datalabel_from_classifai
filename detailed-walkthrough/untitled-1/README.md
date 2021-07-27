@@ -1,6 +1,6 @@
 # Installation
 
-## **Installation of Classifai**
+## **Install Classifai**
 
 Classifai supports the following operating systems \(OS\).
 
@@ -17,13 +17,17 @@ The versions supported for each OS and installation package format are listed be
 | Ubuntu | [18 LTS](https://bit.ly/3gJZPY7), [20 LTS](https://bit.ly/3gSgd7Y) | deb |  |  |
 | Centos | [7](https://bit.ly/3gJ7S7J), [8](https://bit.ly/3xUmOWv) | rpm |  |  |
 
-Installation on Mac /product/installation/installation-on-mac
-
-Installation on Ubuntu /product/installation/install-on-mac
-
-Installation on Centos /product/installation/install-on-centos
-
+{% hint style="success" %}
 Uberjar ﬁle: [Here](https://bit.ly/3xHTpP6)
+{% endhint %}
 
-Installation on Windows /product/installation/install-on-windows
+{% page-ref page="installation-on-windows.md" %}
+
+{% page-ref page="installation-on-mac.md" %}
+
+{% page-ref page="installation-on-ubuntu.md" %}
+
+{% page-ref page="installation-on-centos.md" %}
+
+
 

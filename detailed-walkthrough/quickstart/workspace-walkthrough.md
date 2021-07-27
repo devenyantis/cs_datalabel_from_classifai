@@ -2,33 +2,35 @@
 
 ![](../../.gitbook/assets/0%20%2812%29.jpeg)
 
-## Pointer
+### 1. Pointer
 
 To select and move image.
 
-## Annotating tool
+### 2. Annotating tool
 
 To perform annotation. This functionality is different according to feature selected. Example: Bounding Box, Segmentation
 
-## Eraser
+### 3. Eraser
 
 To erase all annotation on current image.
 
-## Fit Center
+### 4. Fit Center
 
 To show the full image by ﬁtting into the workspace.
 
-## Project Folder/Files
+### 5. Project Folder/Files
 
 Listing all data points of the project/dataset folder.
 
-## Label
+### 6. Label
 
 List of labels created for the project
 
-## Annotation
+### 7. Annotation
 
-List of annotation made on the image. Can be used to select individual annotation.![](../../.gitbook/assets/1%20%285%29.png)
+List of annotation made on the image. Can be used to select individual annotation.
 
-View more functionality in the feature breakdown section
+{% hint style="info" %}
+View more functionality in the [feature breakdown section](../feature-breakdown/)
+{% endhint %}
 

@@ -2,7 +2,7 @@
 
 Classifai works on multiple operating systems \(**Windows, Ubuntu, Centos, Mac**\). Check out installation section for supported OS version and installation details.
 
-Installation /product/installation
+{% page-ref page="detailed-walkthrough/untitled-1/" %}
 
 After installation, it can be easily opened with http://localhost:9999/ with supported web browsers such as **Firefox, Chrome as well as any Chromium based browsers.**
 
@@ -20,5 +20,5 @@ Diagram below shows an overview of Classifai environment
 
 ![](.gitbook/assets/2%20%286%29.jpeg)
 
-Quickstart /product/quickstart
+{% page-ref page="detailed-walkthrough/quickstart/" %}
 
