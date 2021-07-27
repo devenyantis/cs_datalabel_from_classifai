@@ -9,7 +9,6 @@
 * [Installation](detailed-walkthrough/installation/README.md)
   * [Install on Windows](detailed-walkthrough/installation/installation-on-windows.md)
   * [Install on Ubuntu](detailed-walkthrough/installation/installation-on-ubuntu.md)
-  * [Install on Centos](detailed-walkthrough/installation/installation-on-centos.md)
 * [Quickstart](detailed-walkthrough/quickstart/README.md)
   * [Create Project](detailed-walkthrough/quickstart/create-project.md)
   * [Workspace Walkthrough](detailed-walkthrough/quickstart/workspace-walkthrough.md)

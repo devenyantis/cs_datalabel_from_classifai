@@ -40,16 +40,12 @@
         <ul>
           <li>Windows 7, 8, 10</li>
           <li>Ubuntu 17,18 LTS</li>
-          <li>Centos 7, 8</li>
-          <li>Mac 10</li>
         </ul>
       </td>
       <td style="text-align:left">
         <ul>
           <li>Windows 7, 8, 10</li>
           <li>Ubuntu 17,18 LTS</li>
-          <li>Centos 7, 8</li>
-          <li>Mac 10</li>
         </ul>
       </td>
     </tr>
