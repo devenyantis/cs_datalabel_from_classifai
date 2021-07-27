@@ -23,4 +23,5 @@
   * [Project Refresh](detailed-walkthrough/feature-breakdown/project-refresh.md)
   * [Segmentation Techniques Breakdown](detailed-walkthrough/feature-breakdown/segmentation-techniques-breakdown.md)
   * [Deletion of Projects/Data Points](detailed-walkthrough/feature-breakdown/deletion-of-projects-data-points.md)
+* [Uninstall](detailed-walkthrough/uninstall.md)
 
