@@ -36,15 +36,9 @@ Choose the operating system according to operating system Ubuntu 18 LTS or 20 LT
 
 **Step 2:** Double click on the installer. Click install and wait for installation to complete.
 
-![](../../.gitbook/assets/2.jpeg)
-
 ## Running of CS.DataLabel on Ubuntu
 
-After installation completed, open CS.DataLabel by double clicking on the icon.
-
-![](../../.gitbook/assets/3%20%284%29.jpeg)
-
-![](../../.gitbook/assets/4%20%284%29.jpeg)
+After installation completed, open CS.DataLabel by double clicking on the CS.datalabel icon.
 
 {% page-ref page="../quickstart/" %}
 

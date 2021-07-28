@@ -39,13 +39,13 @@
       <td style="text-align:left">
         <ul>
           <li>Windows 7, 8, 10</li>
-          <li>Ubuntu 17,18 LTS</li>
+          <li>Ubuntu 18 LTS, 20 LTS</li>
         </ul>
       </td>
       <td style="text-align:left">
         <ul>
           <li>Windows 7, 8, 10</li>
-          <li>Ubuntu 17,18 LTS</li>
+          <li>Ubuntu 18 LTS, 20 LTS</li>
         </ul>
       </td>
     </tr>
