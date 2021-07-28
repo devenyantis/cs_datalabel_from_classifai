@@ -26,8 +26,6 @@ cd {downloaded_path}
 sudo dpkg -i package_file.deb
 ```
 
-![](../../.gitbook/assets/1%20%282%29.png)
-
 ## Method 2: Installation using Software Installer
 
 **Step 1:** Download CS.DataLabel installer .deb ﬁle from the installation page.
