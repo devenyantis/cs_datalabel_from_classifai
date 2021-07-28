@@ -14,8 +14,6 @@ Choose the operating system according to operating system Ubuntu 18 LTS or 20 LT
 
 **Step 2:** Right click to open terminal and navigate to the downloaded ﬁle path.
 
-![](../../.gitbook/assets/0%20%289%29.jpeg)
-
 ```text
 cd {downloaded_path}
 ```
