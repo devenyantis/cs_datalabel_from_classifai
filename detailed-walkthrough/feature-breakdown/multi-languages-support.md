@@ -10,5 +10,5 @@ CS.DataLabel supports the languages listed below to provide a customized workspa
 
 Change to your preferred language of choice by toggling the selection on the top right corner of the home interface.
 
-![Change of languages in CS.DataLabel](../../.gitbook/assets/change_language.gif)
+![](../../.gitbook/assets/change-language.gif)
 

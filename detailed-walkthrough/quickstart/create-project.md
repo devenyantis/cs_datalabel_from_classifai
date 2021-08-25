@@ -2,11 +2,11 @@
 
 ## Prerequisite
 
-Before creating a project, you need to have a dataset folder. This folder should contain data points for the project. Example below shows a dataset folder containing images.
+Before creating a project you need to have a dataset folder. This folder should contain data points for the project. The example below shows the dataset folder containing images
 
 ### Accepted dataset folder structure
 
-All data point in the root folder
+All data points in the root folder
 
 ```text
  .
@@ -18,7 +18,7 @@ All data point in the root folder
  ├── hat_199.jpg
 ```
 
-Data in separated in child folder
+Data points in the separated child folder
 
 ```text
  .
@@ -34,45 +34,41 @@ Data in separated in child folder
  └── 004.JPG
 ```
 
-{% hint style="info" %}
+{% hint style="warning" %}
 When saving annotation labels, the image path will follow the directory structure. Make sure to structure your data as intended for training.
 {% endhint %}
 
-## How to create project
+## How to create a project
 
-This tutorial shows how to create a bounding box project.
+This tutorial shows how to create a bounding box project in CS.DataLabel
 
-#### 1. Click start CS.DataLabel
+#### 1. Click the button start CS.DataLabel
 
-![](../../.gitbook/assets/img5.jpg)
+![](../../.gitbook/assets/launch.png)
 
-#### **2. Choose image**
+#### **2. Choose Image Annotation**
 
-![](../../.gitbook/assets/img7.jpg)
+![](../../.gitbook/assets/image-annotation.png)
 
 #### **3. Choose bounding box**
 
-![](../../.gitbook/assets/img8.jpg)
+![](../../.gitbook/assets/select-bbox.png)
 
 #### **4. Click new project**
 
-![](../../.gitbook/assets/create.png)
+![](../../.gitbook/assets/new-project.png)
+
+#### **5. Enter a project name and choose the project folder** 
+
+The project folder is the folder containing the image dataset
 
 {% hint style="info" %}
-Label ﬁle can be uploaded to the project. Label ﬁle must be in text \(.txt\). Each labels are separated by new line.
+Label ﬁle can be uploaded to the project to use in the annotation. Label ﬁle must be in text file \(.txt\). Each label is separated by a new line.
 {% endhint %}
 
-Label ﬁle can be uploaded to the project. Label ﬁle must be in text \(.txt\). Each labels are separated by new line.
-
-#### **5. Enter project name and choose project folder. Project folder is the folder of dataset**
-
-{% hint style="info" %}
-Label ﬁle can be uploaded to the project. Label ﬁle must be in text \(.txt\). Each labels are separated by new line.
-{% endhint %}
-
-![](../../.gitbook/assets/6%20%283%29.png)
+![](../../.gitbook/assets/selection.png)
 
 #### **6. Project successfully created. Double click project card to open**
 
-![](../../.gitbook/assets/create-project.png)
+![](../../.gitbook/assets/new.png)
 

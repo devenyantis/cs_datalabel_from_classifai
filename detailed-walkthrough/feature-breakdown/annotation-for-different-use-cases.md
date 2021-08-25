@@ -1,47 +1,46 @@
 # Annotation For Different Use Cases
 
-CS.DataLabel support various labelling methods for different use cases.
+CS.DataLabel supports various labeling methods for different use cases.
 
-### Image Classiﬁcation Labelling Method:
+## Image Classiﬁcation Labelling Method
 
-Draw a bounding box and select a label created from label list
+Draw a bounding box around an object and select a label for the object from the label list
 
-![](../../.gitbook/assets/img14.jpg)
+![](../../.gitbook/assets/bbox.png)
 
-### Text Recognition Labelling Method:
+## Text Recognition Labelling Method
 
-Draw a bounding box and insert text into the blank label column
+Draw a bounding box around the text and insert the label into the blank label column
 
-![](../../.gitbook/assets/img15.jpg)
+![](../../.gitbook/assets/bbox1.png)
 
-Create sub-labels if necessary.
+## **Segmentation labeling method**
 
-![](../../.gitbook/assets/select.png)
+Draw a polygon around an object and assign a label for the object from the label list
 
-### **Export of Labels**
+![](../../.gitbook/assets/segmentation.png)
 
-Annotation output has to be exported for latter process. The types of saved output format depends on the supported formats to train the labelled data with.
+Create sub-labels for the current object if necessary by double-clicking the selected region
 
-Click on the ﬁle saving button to select types of output saving format.
+![](../../.gitbook/assets/sublabel.gif)
 
-![](../../.gitbook/assets/save.png)
+## **Export of Labels**
 
-### Bounding Box Annotation
+Annotation output has to be exported for the later process ****such as machine learning and deep learning. The types of saved output format depend on the supported formats to train the labeled data with. CS.DataLabel supports several output formats.
 
-![](../../.gitbook/assets/img16.jpg)
+Click on the Save button to select the type of output format
 
-* Pascal VOC
-* YOLO
-* Text OCR
-* Label
+![](../../.gitbook/assets/save%20%281%29.png)
 
-Note: The option of saving label for current data point or the whole dataset is available for bounding box annotation.
+## Bounding Box Annotation Output Format
 
-### Segmentation Annotation
+![The output format of bounding box labeled data](../../.gitbook/assets/save-bbox.png)
 
-* COCO
-* JSON
-* Label
+{% hint style="warning" %}
+Note: The option of saving label for current data point or the whole dataset is available for bounding box annotation
+{% endhint %}
 
+### Segmentation Annotation Output Format
 
+![The output format of segmentation labeled data](../../.gitbook/assets/save-seg.png)
 

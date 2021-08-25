@@ -2,11 +2,11 @@
 
 ## Deletion of Projects:
 
-Unused projects can be deleted with a few clicks.
+The unused project can be deleted with a few clicks in the home directory
 
 {% hint style="danger" %}
-**Note:** Deleted project will be removed from the database. It is unlikely to reverse the action. Proceed with care.
+**Note:** The deleted project will be removed from the database. It is unlikely to reverse the action. Please proceed with care.
 {% endhint %}
 
-![](../../.gitbook/assets/delete-project.png)
+![](../../.gitbook/assets/delete-project.gif)
 

@@ -1,84 +1,86 @@
-# Install on Centos
+# Installation on Centos
 
 ## Installation for CentOS 7
 
-For CentOS 7 , users have to install CS.DataLabel by using terminal.
+For CentOS 7, users have to install CS.DataLabel by using the terminal.
 
 {% hint style="danger" %}
-Using GUI is not recommended because the installation might not run successfully. Don't worry, the installation using terminal will just take a few steps to complete.
+Using GUI is not recommended because the installation might not run successfully. Don't worry,  the installation using the terminal will just take a few steps to complete. 
 {% endhint %}
 
-**Step 1:** Download CS.DataLabel installer .rpm ﬁle compatible to CentOS 7 from the installation page.
+**Step 1:** Download CS.DataLabel installer **.rpm file** compatible with CentOS 7 from the installation page
 
-{% page-ref page="./" %}
+**Step 2:** Open the terminal and make sure the user account is the **root account** using the command below
 
-**Step 2:** Open terminal and go to the downloaded ﬁle location by command code:
-
-```text
-cd {installer_location}
-```
-
-**Step 3:** Type the following command code to install CS.DataLabel.
-
-```text
-sudo rpm -i package_file.rpm
-```
-
-![](../../.gitbook/assets/1%20%283%29.png)
-
-## Installation for CentOS 8
-
-These are 2 methods to install CS.DataLabel on CentOS 8. Users can choose either using Software Installer \(GUI\) or using terminal.
-
-### Method 1: Installation using Software Installer \(GUI\)
-
-**Step 1:** Download CS.DataLabel installer .rpm ﬁle compatible to CentOS 8 from the installation page.
-
-{% page-ref page="./" %}
-
-**Step 2:** Double click on the installer. Click install and wait for installation to complete.
-
-![](../../.gitbook/assets/2%20%288%29.jpeg)
-
-### Method 2: Installation using Terminal
-
-**Step 0:** Before login to the centos account, make sure Centos supported X11 server. User can click the setting icon and choose _standard._
-
-![](../../.gitbook/assets/3%20%283%29.jpeg)
-
-**Step 1:** Download CS.DataLabel installer .rpm ﬁle compatible to CentOS 8 from the installation page.
-
-{% page-ref page="./" %}
-
-**Step 2:** Open terminal and navigate to the downloaded path using command below:
-
-```text
-cd {installer_location}
-```
-
-Make sure the user account is root account using the command below:
+![](../../.gitbook/assets/centos7-install.png)
 
 ```text
 su
 ```
 
-![](../../.gitbook/assets/4%20%285%29.jpeg)
-
-**Step 3:** Type the following command code to install CS.DataLabel:
+**Step 3:**  Go to the downloaded file location by command code
 
 ```text
-sudo rpm -i package_file.rpm
+cd {installer_location}
 ```
 
-![](../../.gitbook/assets/5%20%281%29.png)
+**Step 4:** Type the following command code to install Classifai
 
-### Running of CS.DataLabel on CentOS
+```text
+ sudo rpm -i {package_file.rpm}
+```
 
-Search for CS.DataLabel program in the Applications / Activities.
+![Installation steps](../../.gitbook/assets/centos7-install1.png)
 
-![](../../.gitbook/assets/6.jpeg)
+**Step 5:** Running CS.DataLabel on CentOS7 by double-clicking the CS.DataLabel Icon in the Applications
 
-Run by double clicking on the CS.DataLabel icon.
+![](../../.gitbook/assets/centos7-1.png)
 
-![](../../.gitbook/assets/7.jpeg)
+Click the button to open CS.DataLabel or alternatively go to[ http://localhost:9999/](http://localhost:9999/) at the browser
+
+![](../../.gitbook/assets/centos7-2.png)
+
+## Installation for CentOS 8
+
+Users can install CS.DataLabel on CentOS 8 by using terminal
+
+### Installation using Terminal
+
+**Step 1:** Before login to the centos account, make sure CentOS8 **supported** **X11 server**. Users can click the setting icon and choose Standard on Xorg.
+
+![](../../.gitbook/assets/centos8-install%20%281%29.png)
+
+**Step 2:** Download CS.DataLabel installer **.rpm file** compatible with CentOS 8 from the installation page
+
+**Step 3:** Open the terminal and navigate to the downloaded path using the commands below
+
+```text
+ cd {installer_location}
+```
+
+**Step 4:** Make sure the user account is the **root account** using the command below
+
+```text
+su 
+```
+
+**Step 5:** Type the following command code to install CS.DataLabel
+
+```text
+sudo rpm -i {package_file.rpm}
+```
+
+![Installation steps](../../.gitbook/assets/centos8-install.png)
+
+### Running of CS.DataLabel on CentOS8
+
+First, click Activities and select Show All Applications to find the CS.DataLabel program
+
+![](../../.gitbook/assets/centos8-1.png)
+
+Run CS.DataLabel by double-clicking on the CS.DataLabel icon. Click the button to open CS.DataLabel or go to [http://localhost:9999/ ](http://localhost:9999/)at the browser
+
+![](../../.gitbook/assets/csdatalabel2%20%281%29.png)
+
+{% page-ref page="../quickstart/" %}
 

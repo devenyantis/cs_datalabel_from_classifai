@@ -1,24 +1,26 @@
 # Quickstart
 
-After CS.DataLabel is installed, run it by clicking on the shortcut icon from respective operating system.
+After CS.DataLabel is installed, run it by clicking on the shortcut icon 
 
-![](../../.gitbook/assets/img1.jpg)
+![](../../.gitbook/assets/shortcut.png)
 
-Once CS.DataLabel is booted, Welcome Launcher will be launch. The server status will be displayed on the bottom left corner.
+Once CS.DataLabel is booted, Welcome Launcher will initiate. The server status will be displayed at the bottom left corner.
 
-![](../../.gitbook/assets/img2.jpg)
+![](../../.gitbook/assets/starting.png)
 
 Once the server status message displayed "Running", CS.DataLabel is booted up successfully.
 
-![](../../.gitbook/assets/img3.jpg)
+![](../../.gitbook/assets/running.png)
 
-There are two ways to open CS.DataLabel in the browser
+{% hint style="info" %}
+There are **two ways** to open CS.DataLabel in the browser
+{% endhint %}
 
 * Click on the ﬁrst button of **Welcome Launcher**
 
-![](../../.gitbook/assets/img4.jpg)
+![](../../.gitbook/assets/launch.png)
 
-* Alternatively, proceed to open a supported browser \(Chrome, Firefox, or any Chromium- based browser\) and go to url _http://localhost:9999/_
+* Alternatively, proceed to open a supported browser \(Chrome, Firefox, or any Chromium-based browser\) and go to URL [_http://localhost:9999/_](http://localhost:9999/)\_\_
 
-![](../../.gitbook/assets/img6.jpg)
+![](../../.gitbook/assets/browser.png)
 

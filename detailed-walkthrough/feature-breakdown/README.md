@@ -6,15 +6,27 @@ Check out the following topics:
 
 {% page-ref page="multi-languages-support.md" %}
 
+{% page-ref page="keyboard-shortcut.md" %}
+
 {% page-ref page="files-conversion.md" %}
 
 {% page-ref page="annotation-for-different-use-cases.md" %}
+
+{% page-ref page="project-management.md" %}
+
+{% page-ref page="rename-project.md" %}
 
 {% page-ref page="project-import-export.md" %}
 
 {% page-ref page="labels-import-export.md" %}
 
+{% page-ref page="rename-image.md" %}
+
+{% page-ref page="delete-image.md" %}
+
 {% page-ref page="project-refresh.md" %}
+
+{% page-ref page="segmentation-techniques-breakdown.md" %}
 
 {% page-ref page="deletion-of-projects-data-points.md" %}
 
