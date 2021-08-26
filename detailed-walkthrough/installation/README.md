@@ -16,10 +16,10 @@ Hover to the **highlighted words below and click to download** the package for t
 
 | Operating System | Supported Version | Installation Package Format |
 | :--- | :--- | :--- |
-|         Windows |           7, 8, 10 |                     [msi](https://bit.ly/3moSRv0) |
-|            Mac |               10 |                     [pkg](https://bit.ly/3klLstK) |
-|          Ubuntu |      [18 LTS](https://bit.ly/3B4QT6W), [20 LTS](https://bit.ly/3mrAZj5) |                     deb |
-|          Centos |            [7](https://bit.ly/3DaJpRK), [8](https://bit.ly/3B3i6ao) |                     rpm |
+|         Windows |           7, 8, 10 |                     [msi](https://bit.ly/3yjs7y8) |
+|            Mac |               10 |                     [pkg](https://bit.ly/38gCV5E) |
+|          Ubuntu |      [18 LTS](https://bit.ly/3BdIwGp), [20 LTS](https://bit.ly/3kiVYBS) |                     deb |
+|          Centos |            [7](https://bit.ly/3mN2OCT), [8](https://bit.ly/3ylTyrc) |                     rpm |
 
 Proceed to the sessions below for installation guidelines of the respective operating system
 

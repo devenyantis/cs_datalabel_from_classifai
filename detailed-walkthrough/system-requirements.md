@@ -61,7 +61,7 @@ You can run CS.DataLabel even if your operating system is not supported above.
 If your operating system is not listed above, you can proceed to download  CS.DataLabel Uber Jar file. Hover to the bold word, and click it to download. 
 
 {% hint style="success" %}
-**Download the Uber Jar file:** [Here](https://bit.ly/2Wfn2tV)
+**Download the Uber Jar file:** [Here](https://bit.ly/38aUhRA)
 {% endhint %}
 
 After downloaded the Uber jar file, proceed with the section below
