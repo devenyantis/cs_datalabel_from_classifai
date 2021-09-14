@@ -89,5 +89,5 @@ Users can utilize the available shortcut key to assist their annotation work. Mo
 
 ![](../../.gitbook/assets/shortcut-key.gif)
 
-{% page-ref page="tailor-workstyle-and-make-good-use-of-tools.md" %}
+{% page-ref page="../feature-breakdown/keyboard-shortcut.md" %}
 
