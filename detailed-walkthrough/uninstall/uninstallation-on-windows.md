@@ -4,7 +4,7 @@
 
 ![](../../.gitbook/assets/window-uninstall-1.png)
 
-**Step 3:** Search cs.datalabel and click uninstall
+**Step 3:** Search CS.DataLabel and click uninstall
 
 ![](../../.gitbook/assets/window-uninstall-2.png)
 
