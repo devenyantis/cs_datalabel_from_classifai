@@ -8,7 +8,7 @@ description: Introduction about CS.DataLabel
 
 ![](.gitbook/assets/aics_v2_output-04_white-1-.png)
 
-**CS.DataLabel** is one of the most comprehensive open-source data annotation platforms. It supports the labeling of various data types with multi-labeled outputs formats for AI model training. 
+**CS.DataLabel** is one of the most comprehensive data annotation platforms. It supports the labeling of various data types with multi-labeled outputs formats for AI model training. 
 
 It enables the labeling of raw data imported from the data source. The labeled data with specific output formats can then channel into training environments for supervised / semi-supervised learning. This shows how CS.DataLabel fits in machine learning workflows. 
 
