@@ -7,7 +7,7 @@
 **Step 2:** Double click to install Classifai. Wait for the installation to complete.
 
 {% hint style="warning" %}
-The package might fail to run with a message as an untrusted package. Check out the workaround: [Here](https://truefire.zendesk.com/hc/en-us/articles/200200566-Open-Program-from-Unidentified-Developer-Mac-)
+The package might fail to run with a message as an untrusted package. Check out the workaround: [Here](https://www.macworld.co.uk/how-to/mac-app-unidentified-developer-3669596/)
 {% endhint %}
 
 ### Running of Classifai on Mac
